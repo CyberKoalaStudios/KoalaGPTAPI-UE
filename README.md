@@ -1,6 +1,9 @@
 # KoalaGPT API Plugin
 The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in **Unreal Engine**. It is compatible with 4.26, 4.27, 5.0, 5.1 and 5.2
 
+# IN PROGRESS. DRAFT VERSION.
+***
+
 ## Installation
 
 The recommended way to install the plugin is to use pre-built binaries.
