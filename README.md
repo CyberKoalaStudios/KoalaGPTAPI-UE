@@ -6,7 +6,7 @@ The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in 
 The recommended way to install the plugin is to use pre-built binaries.
 
 
-- Download the Plugin [here](https://drive.google.com/drive/folders/)
+- Download the Plugin [here](https://disk.yandex.ru)
 - Create a `Plugins` folder under your project folder
 - Copy the plugin to it, so you have `YourProject/Plugins/KoalaGPTAPI`
 
@@ -57,7 +57,7 @@ There are two ways to set the Api Key
 
 ## Usage
 
-This example show you how to use KoalaGPI 's chat endpoint in blueprints. (GPT-4 / GPT-3.5-Turbo)
+This example show you how to use KoalaGPI 's chat endpoint in blueprints.
 
 ![](https://i.imgur.com/.png)
 
