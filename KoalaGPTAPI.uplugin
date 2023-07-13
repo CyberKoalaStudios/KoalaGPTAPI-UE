@@ -1,0 +1,28 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "KoalaGPTAPI",
+	"Description": "The KoalaGPTAPI plugin gives you access to the CyberKoala AI API in Unreal Engine",
+	"Category": "Other",
+	"CreatedBy": "CyberKoala LLC",
+	"CreatedByURL": "https://beta.cyberkoala.ru",
+	"DocsURL": "https://github.com/CyberKoalaStudios/KoalaGPTAPI-UE#readme",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "KoalaGPTAPI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Mac",
+				"Android"
+			]
+		}
+	]
+}
