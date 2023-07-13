@@ -37,7 +37,7 @@ There are two ways to set the Api Key
 ## Blueprint Nodes
 #### KoalaGPT Call Completions
 
-- This async node sends an HTTP request using your `engine`, `prompt`, and `settings`.
+- This async node sends an HTTP request using your `prompt`, and `settings`.
 
 ![](https://i.imgur.com/.png)
 > **NOTE**: Async nodes can only be called from a blueprint's `Event Graph`. 
