@@ -1,9 +1,6 @@
 # KoalaGPT API Plugin
 The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in **Unreal Engine**. It is compatible with 4.26, 4.27, 5.0, 5.1 and 5.2
 
-# IN PROGRESS. DRAFT VERSION.
-***
-
 ![Imgur](https://i.imgur.com/pBrl1GM.png)
 
 ## Installation
@@ -31,42 +28,43 @@ There are two ways to set the Api Key
 - Set the Api Key as an environment variable
 
 
-![](https://i.imgur.com/.png)
+![Imgur1](https://i.imgur.com/boKUC6j.png)
 > **ADVICE**: Pay attention to security and encrypt your assets before packaging.
 
 
-![](https://i.imgur.com/.png)
+![Imgur2](https://i.imgur.com/ehmPDNk.png)
 > **ADVICE**: Create the environment variable `KOALAGPT_API_KEY` and use your Api key as the value.
 
 
 ## Blueprint Nodes
-#### KoalaGPT Call Completions
+#### KoalaGPT Call Chat
 
-- This async node sends an HTTP request using your `prompt`, and `settings`.
+- This async node sends an HTTP request using your `ChatSettings`.
 
-![](https://i.imgur.com/.png)
+![Imgur3](https://i.imgur.com/2eg0MJ9.png)
 > **NOTE**: Async nodes can only be called from a blueprint's `Event Graph`. 
-#### Make Completion Settings
+#### Make Chat Settings
 
-- This node allows you to set the `Request body` parameters.
+- This node allows you to set the `Messages`.
 
-![](https://i.imgur.com/.png)
+![Imgur4](https://i.imgur.com/C2Nn8CG.png)
 > **NOTE**: The extra parameter `Start Sequence` injects text at the beginning of your prompt.
 >
 > `stream` will be supported soon
-#### Break Completion
+#### Break Chat Completion Simple
 
 - This node is used to access the values included in a `completion` or `choice`
 
-![](https://i.imgur.com/.png)
+![Imgur5](https://i.imgur.com/SSOnsCT.png)
 
 ## Usage
 
 This example show you how to use KoalaGPI 's chat endpoint in blueprints.
 
-![](https://i.imgur.com/.png)
+![Imgur6](https://i.imgur.com/p4iwNRc.png)
 
 
+[Get This Blueprint](https://blueprintue.com/render/vvxdk-wi/)
 
 ## References
 - [KoalaGPT's API Support](https://beta.cyberkoala.ru/)
