@@ -39,7 +39,8 @@ public class KoalaGPTAPI : ModuleRules
 				"Slate",
 				"SlateCore",
 				"Json",
-				"Http"
+				"Http",
+				// "HTTP"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
