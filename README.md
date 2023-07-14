@@ -8,7 +8,8 @@ The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in 
 The recommended way to install the plugin is to use pre-built binaries.
 
 
-- Download the Plugin [[here](https://disk.yandex.ru/d/fVJ_LypyG6-70Q)](https://disk.yandex.ru/d/fVJ_LypyG6-70Q)
+- Download the Plugin [[here](https://github.com/CyberKoalaStudios/KoalaGPTAPI-UE/releases)](https://disk.yandex.ru/d/fVJ_LypyG6-70Q)
+- 
 - Create a `Plugins` folder under your project folder
 - Copy the plugin to it, so you have `YourProject/Plugins/KoalaGPTAPI`
 
