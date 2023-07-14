@@ -48,9 +48,7 @@ There are two ways to set the Api Key
 - This node allows you to set the `Messages`.
 
 ![Imgur4](https://i.imgur.com/C2Nn8CG.png)
-> **NOTE**: The extra parameter `Start Sequence` injects text at the beginning of your prompt.
->
-> `stream` will be supported soon
+
 #### Break Chat Completion Simple
 
 - This node is used to access the values included in a `completion` or `choice`
