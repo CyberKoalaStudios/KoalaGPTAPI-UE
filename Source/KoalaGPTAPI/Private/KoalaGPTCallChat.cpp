@@ -57,7 +57,7 @@ void UKoalaGPTCallChat::Activate()
 		tempHeader += _apiKey;
 
 		// set headers
-		FString url = FString::Printf(TEXT("https://gpt.cyberkoala.ru/backend-api/backend-api/v2/unreal"));
+		FString url = FString::Printf(TEXT("https://gpt.cyberkoala.ru/backend-api/v2/unreal"));
 		HttpRequest->SetURL(url);
 		HttpRequest->SetHeader(TEXT("Content-Type"), TEXT("application/json"));
 		HttpRequest->SetHeader(TEXT("Authorization"), tempHeader);
