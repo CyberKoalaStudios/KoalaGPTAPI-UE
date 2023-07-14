@@ -4,6 +4,8 @@ The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in 
 # IN PROGRESS. DRAFT VERSION.
 ***
 
+![Imgur](https://i.imgur.com/pBrl1GM.png)
+
 ## Installation
 
 The recommended way to install the plugin is to use pre-built binaries.
