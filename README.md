@@ -34,7 +34,7 @@ There are two ways to set the Api Key
 
 ![Imgur2](https://i.imgur.com/ehmPDNk.png)
 > **ADVICE**: Create the environment variable `KOALAGPT_API_KEY` and use your Api key as the value.
-
+> How to set enviroment variables for [Windows](https://docs.oracle.com/en/database/oracle/machine-learning/oml4r/1.5.1/oread/creating-and-modifying-environment-variables-on-windows.htmlhttps://docs.oracle.com/en/database/oracle/machine-learning/oml4r/1.5.1/oread/creating-and-modifying-environment-variables-on-windows.html)
 
 ## Blueprint Nodes
 #### KoalaGPT Call Chat
