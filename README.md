@@ -16,9 +16,9 @@ The recommended way to install the plugin is to use pre-built binaries.
 
 ## Quick Start
 
-See [Video](https://www.youtube.com/watch?v=)
+See [[Video](https://www.youtube.com/watch?v=wq42WWCCAZ4)](https://youtu.be/wq42WWCCAZ4)
 
-[![](http://img.youtube.com/vi//0.jpg)](http://www.youtube.com/watch?v= "KoalaGPT API Quick Start Tutorial")
+[![](http://img.youtube.com/vi/wq42WWCCAZ4/0.jpg)](http://www.youtube.com/watch?v=wq42WWCCAZ4 "KoalaGPT API Quick Start Tutorial")
 
 
 ## Types of Authentication
