@@ -2,7 +2,7 @@
 ![Discord](https://img.shields.io/discord/1016305251936129094)
 
 # KoalaGPT API Plugin
-The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in **Unreal Engine**. It is compatible with 4.26, 4.27, 5.0, 5.1 and 5.2
+The official **KoalaGPTApi Plugin** gives you access to the **KoalaGPT API** in **Unreal Engine**. It is compatible with 4.26, 4.27, 5.0, 5.1, 5.2, 5.3
 
 ![Imgur](https://i.imgur.com/pBrl1GM.png)
 
